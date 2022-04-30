@@ -1,0 +1,152 @@
+*{
+    font-family: 'Segoe UI', Tahoma, sans-serif ;
+
+}
+
+h1 {
+    color:darkblue;
+    background-color:royalblue
+
+    
+}
+li {
+    color:blue;
+    background-color:cornflowerblue;
+    
+}
+li.lightblue {
+    color:blue;
+    background-color: cornflowerblue;           }
+table{ 
+    width: 100%
+
+}
+   
+
+h1{
+
+    text-align: center;
+}
+
+
+    
+p{
+    color:royalblue;
+
+}
+th.mediumblue{
+    color:mediumblue
+}
+h3{
+    
+
+}
+#h2{
+    color:navy;
+    background-color:royalblue;
+    text-align: center;
+}
+table{
+
+    text-align: center;
+    width: 100%;
+}
+#h1{
+
+    color:navy;
+   }
+   td.darkblue{
+    color:darkblue;
+    background-color:skyblue;
+   }
+   table{
+
+    width: 100%;
+   }
+   h1{
+
+    color:navy;
+    background-color:royalblue;
+    text-align: center;
+
+   }
+   td.one{
+    color: navy;
+    background-color:skyblue;
+
+   }
+    
+    
+   .navbar tr th {
+    border: 2px solid;
+   }
+
+   .navbar{
+    background-color: cornflowerblue;
+    border: solid midnightblue;
+    font-size: 20px;
+    position:sticky;
+    top:0px
+    }
+   body {
+
+    background-image: url(../img/1055.png);
+    
+   }
+   #table tr td{
+    border: 2px solid;
+   }
+
+   #table{
+    border-collapse: collapse;
+   }
+   header {
+
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid black;       }
+
+    .navbar th {
+        border: solid midnightblue;
+        padding: 5px;
+
+
+
+    }
+    .profile {
+        background-color:(../img/1055.png) ;
+        text-align: center;
+
+    }
+    footer {
+        background-color:cornflowerblue;
+        color:white;
+        font-size:12px;
+        border: 3px solid white;
+        padding-left: 5px
+
+    }
+    .dropdown{
+        display:inline-block;
+       ;
+    }
+    .dropdown-content{
+        display:none;
+        position:absolute;
+        background-color:white;
+        color:navy;
+        padding:5px;
+        box-shadow:5px 5px 10px;
+
+    }
+    .dropdown:hover .dropdown-content {
+            display:block;
+
+    }
+    .active{
+        background-color:lightcoral;
+
+    }
+    

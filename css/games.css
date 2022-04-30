@@ -1,0 +1,23 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   ;}
+h2 {
+    color:navy;
+    background-color:royalblue;
+    text-align: center;
+
+
+}
+th {
+    color:navy;
+    background-color:cornflowerblue;
+    text-align: center;
+
+
+}
+  th, td{
+    border: 5px solid black;;
+
+} 
